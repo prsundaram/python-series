@@ -14,6 +14,7 @@ This repository contains educational notebooks and scripts demonstrating Python 
   - `functions.ipynb`: Function definitions, arguments, and usage.
   - `lambda.ipynb`: Lambda (anonymous) functions in Python.
   - `examplesfunctions.ipynb`: Practical function examples.
+  - `mapfunction.ipynb`: Map function in python
 
 ## Getting Started
 
