@@ -15,6 +15,7 @@ This repository provides a collection of Jupyter notebooks and Python scripts de
   - `lambda.ipynb`: How to use lambda (anonymous) functions.
   - `examplesfunctions.ipynb`: Real-world function examples.
   - `mapfunction.ipynb`: Using the `map()` function in Python.
+  - `filterfunctions.ipynb`: Using the `filter()` function in Python.
 
 ## How to Use
 
