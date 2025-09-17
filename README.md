@@ -17,6 +17,9 @@ This repository provides a collection of Jupyter notebooks and Python scripts de
   - `mapfunction.ipynb`: Using the `map()` function in Python.
   - `filterfunctions.ipynb`: Using the `filter()` function in Python.
 
+- **Modules/**
+  - `import.ipynb`: Introduction to Packages and Modules.
+
 ## How to Use
 
 1. Clone this repository to your local machine.
