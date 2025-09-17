@@ -23,8 +23,9 @@ This repository provides a collection of Jupyter notebooks and Python scripts de
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Open the `.ipynb` notebooks in [Visual Studio Code](https://code.visualstudio.com/) or Jupyter Notebook.
-3. Run and modify code cells to see results and experiment with the concepts.
+2. Run pip install -r requirements.txt
+3. Open the `.ipynb` notebooks in [Visual Studio Code](https://code.visualstudio.com/) or Jupyter Notebook.
+34. Run and modify code cells to see results and experiment with the concepts.
 
 ## Prerequisites
 
@@ -37,6 +38,7 @@ This repository provides a collection of Jupyter notebooks and Python scripts de
 - Writing and calling functions with various types of arguments
 - Using lambda functions for concise operations
 - Applying Python functions to practical problems
+- Working with Packages and Modules
 
 ## License
 
