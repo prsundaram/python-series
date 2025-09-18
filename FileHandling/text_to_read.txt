@@ -1,0 +1,10 @@
+This is a sample text file which will be used to for illustration purpose
+--------------------------------------------------------------------------------
+
+Python is a powerful, high-level programming language valued for its simplicity, flexibility, and extensive ecosystem. 
+Its clean syntax enables rapid development, while dynamic typing and vast libraries make it highly adaptable. 
+Python excels in automation, data analysis, web applications, and especially artificial intelligence and machine learning,
+thanks to frameworks like TensorFlow, PyTorch, and Scikit-learn. It supports object-oriented, functional,
+and procedural paradigms, making it versatile for diverse use cases. With strong community support, seamless integration 
+with other technologies, and cross-platform portability, Python empowers developers to build efficient, scalable, 
+and innovative solutions across AI, data science, and enterprise applications.

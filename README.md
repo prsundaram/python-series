@@ -21,6 +21,9 @@ This repository provides a collection of Jupyter notebooks and Python scripts de
   - `import.ipynb`: Introduction to Packages and Modules.
   - `standardlibrary.ipynb`: Usages of commonly used Python Standard Libraries
 
+- **FileHandling/**
+  - `fileoperation.ipynb`: Illustration on the various file operation
+
 ## How to Use
 
 1. Clone this repository to your local machine.
