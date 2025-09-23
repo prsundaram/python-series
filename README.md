@@ -23,6 +23,11 @@ This repository provides a collection of Jupyter notebooks and Python scripts de
 
 - **FileHandling/**
   - `fileoperation.ipynb`: Illustration on the various file operation
+  - `filepath.ipynb`: Illustration on the various usage of file path
+
+- **Exception-Handling/**
+  - `exception.ipynb`: Covers all about Python exceptions — basics, multiple exceptions, 
+    else, finally, complete flow, and diagrams — all in a single notebook.
 
 ## How to Use
 
