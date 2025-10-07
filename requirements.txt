@@ -8,3 +8,4 @@ openpyxl
 matplotlib
 ipympl
 ipywidgets
+seaborn
