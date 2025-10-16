@@ -9,3 +9,4 @@ matplotlib
 ipympl
 ipywidgets
 seaborn
+scikit-learn
