@@ -10,3 +10,4 @@ ipympl
 ipywidgets
 seaborn
 scikit-learn
+imblearn
