@@ -11,3 +11,4 @@ ipywidgets
 seaborn
 scikit-learn
 imblearn
+category_encoders
