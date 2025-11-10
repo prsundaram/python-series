@@ -16,3 +16,4 @@ tensor
 torch
 torchvision
 nltk
+gensim
