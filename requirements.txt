@@ -19,3 +19,4 @@ nltk
 gensim
 tqdm
 joblib
+plotly
