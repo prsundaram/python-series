@@ -20,3 +20,6 @@ gensim
 tqdm
 joblib
 plotly
+xgboost
+lightgbm
+catboost
