@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.conda" />
     </content>
-    <orderEntry type="jdk" jdkName="python-series" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="$MODULE_DIR$/.conda" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
