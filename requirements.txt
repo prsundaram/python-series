@@ -29,3 +29,6 @@ tensorboard
 streamlit
 scikeras
 keras
+wordcloud
+transformers==4.38.2
+emoji
