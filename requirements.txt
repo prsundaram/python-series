@@ -12,7 +12,6 @@ seaborn
 scikit-learn
 imblearn
 category_encoders
-tensor
 torch
 torchvision
 nltk
@@ -24,11 +23,10 @@ xgboost
 lightgbm
 catboost
 tensorflow
-scikit-learn
 tensorboard
 streamlit
 scikeras
-keras
 wordcloud
-transformers==4.38.2
+transformers
 emoji
+datasets
