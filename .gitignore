@@ -1,5 +1,7 @@
 #Environment 
 .conda
+.idea
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -207,3 +209,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.DS_Store
+.idea/misc.xml
+.idea/misc.xml
