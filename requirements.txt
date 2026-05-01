@@ -30,3 +30,8 @@ wordcloud
 transformers
 emoji
 datasets
+accelerate
+bertviz
+umap-learn
+evaluate
+huggingface-hub
